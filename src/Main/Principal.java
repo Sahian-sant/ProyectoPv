@@ -23,8 +23,7 @@ public class Principal {
 		LicInformatica info = null;
 		
 		int menuPrin, menuPrincIngCivil, menuPrincLicInfo;
-//nuevo codigo ejemplo
-		int numero=20;
+
 		ImplementacionIngCivil impCivil = new ImplementacionIngCivil();
 		ImplementacionLicInformatica impInfo = new ImplementacionLicInformatica();
 
